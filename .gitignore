@@ -1,0 +1,3 @@
+files_to_submit/*
+!files_to_submit/.gitkeep 
+*/.DS_Store

@@ -1,0 +1,32 @@
+{
+  "name": "batchsubmit",
+  "version": "1.0.0",
+  "description": "Batch submitter for Canvas assignments.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Abrams",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.1",
+    "form-data": "^2.2.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "locks": "^0.2.2",
+    "promise": "^8.0.0",
+    "prompt": "^1.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabeabrams/canvas-batch-submit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabeabrams/canvas-batch-submit/issues"
+  },
+  "homepage": "https://github.com/gabeabrams/canvas-batch-submit#readme"
+}
